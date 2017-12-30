@@ -1,0 +1,38 @@
+[
+	{
+	"item": "",
+	"price": 0,
+	"weight": 0,
+	"id": 0
+	},
+	{
+	"item": "Book",
+	"price": 10,
+	"weight": 10,
+	"id": 1
+	},
+	{
+	"item": "Soccer Ball",
+	"price": 20,
+	"weight": 5,
+	"id": 2
+	},
+	{
+	"item": "Bread",
+	"price": 5,
+	"weight": 3,
+	"id": 3
+	},
+	{
+	"item": "iPod",
+	"price": 300,
+	"weight": 1,
+	"id": 4
+	},
+	{
+	"item": "Sweater",
+	"price": 50,
+	"weight": 7,
+	"id": 5
+	}
+]
